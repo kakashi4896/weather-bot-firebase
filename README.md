@@ -1,4 +1,4 @@
-"# weather-bot-firebase" 
+# weather-bot-firebase
 
 weather-bot with gcp, firebase, dialogflow
 https://jerrynest.io/actions-on-google/
